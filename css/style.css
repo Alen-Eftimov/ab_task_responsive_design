@@ -136,13 +136,6 @@
         padding:  24px;
     }
     
-      /* .btn {
-        display: block;
-        text-align: center;
-        margin: auto;
-        align-items: left;
-        justify-items: left;
-      } */
   }
 
 /* Large Devices, Wide Screens */
@@ -155,13 +148,6 @@
         padding:  24px;
     }
 
-       /* .btn {
-        display: grid;
-        text-align: center;
-        margin: auto;
-        align-items: left;
-        justify-items: left;
-      } */
   }
 
   /* Medium Devices, Desktops */
@@ -183,13 +169,6 @@
         justify-content: center;
         margin: 0;
       }
-       /* .btn {
-        display: block;
-        text-align: center;
-        margin: auto;
-        align-items: left;
-        justify-items: left;
-      } */
   }
   
     /* Small Devices, Tablets */
@@ -212,15 +191,6 @@
         margin: 0;
         font-size: 1.5rem;
     } 
-
-    /* .btn {
-      display: block;
-      text-align: center;
-      margin: auto;
-      align-items: left;
-      justify-items: left;
-      font-size: 1.5rem;
-    } */
   }
   
     /* Extra Small Devices, Phones */ 
